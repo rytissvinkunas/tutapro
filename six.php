@@ -1,3 +1,3 @@
 <?php
-  print "Hello this is alternative sixth file for git merge task"
+  print "Hello this is alternative sixth file for git merge task"//op
  ?>
